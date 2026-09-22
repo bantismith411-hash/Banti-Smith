@@ -1,0 +1,6 @@
+{
+  "name": "Skylark Property",
+  "description": "Skylark Property helps you discover premium residential, commercial and investment properties with trusted real estate guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
